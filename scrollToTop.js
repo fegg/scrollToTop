@@ -75,4 +75,6 @@
             });
         }, 0);
     }
+
+    window.scrollToTop = scrollToTop;
 })(window, document, Math);
